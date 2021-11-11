@@ -1,0 +1,26 @@
+{
+  "name": "yarn",
+  "version": "1.22.11",
+  "description": "yarn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetoycompany/tdd_task_management_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thetoycompany/tdd_task_management_app/issues"
+  },
+  "homepage": "https://github.com/thetoycompany/tdd_task_management_app#readme",
+  "dependencies": {
+    "react-scripts": "^4.0.3",
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
